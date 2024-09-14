@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahnaap
-- 👀 I’m interested in software manual and Automation testing.
-- ✅ I completed Selenium webdriver with java, this includes PAGEOBJECT, DATADRIVEN ,TestNG, MAVEN, JENKINS, LOG4J, CUCUMBER, HTML REPORTS, EXCEL API, GRID PARALLEL TESTING.
-- 🌱 I’m currently learning Appium mobile automation testing.
-- 💞️ I’m looking for a QA analyst job.
+- 👀 I’m interested in data analysis and data science 
+- ✅ I completed my first year in data analysis at noroff and am currently pursuing my second year.
+- 🌱 I’m currently learning Python,Tableau,Power BI.
+- 💞️ I’m looking for a Data Analyst job.
 - 📫 you can reach me on rahnaap9@gmail.com
 
 <!---
